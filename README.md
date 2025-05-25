@@ -9,3 +9,5 @@ git status
 git add filename
 
 git add .
+
+git push origin main
